@@ -1,0 +1,22 @@
+{
+  "name": "red_alert_tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivkaziv/red_alert_tiktok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivkaziv/red_alert_tiktok/issues"
+  },
+  "homepage": "https://github.com/zivkaziv/red_alert_tiktok#readme",
+  "dependencies": {
+    "tiktok-api": "^0.4.1"
+  }
+}
